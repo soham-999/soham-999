@@ -1,22 +1,28 @@
 ### Hey 👋, I'm Soham
 
-<a href="mailto:soham99y@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-</a>
-<a href="https://twitter.com/soham99y" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-</a>
-<a href="https://t.me/Dark0998" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
-</a>
-<a href="https://discord.com/users/soham990" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
-</a>
-<a href="https://sohamchakraborty.pages.dev" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-</a>
+<p align="left">
+  <a href="mailto:soham99y@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/soham99y" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="22" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/Dark0998" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="22" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/soham990" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="22" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://sohamchakraborty.pages.dev" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" width="22" alt="Website" />
+  </a>
+</p>
 
-<br /><br />
+---
 
 Hi there, I'm **Soham Chakraborty**, a passionate computer science undergraduate specializing in Artificial Intelligence and Machine Learning. With a strong foundation in full-stack web development, I excel in building scalable and efficient web applications primarily using JavaScript technologies.
 
