@@ -26,7 +26,7 @@
 
 Hi there, I'm **Soham Chakraborty**, a passionate computer science undergraduate specializing in Artificial Intelligence and Machine Learning. With a strong foundation in full-stack web development, I excel in building scalable and efficient web applications primarily using JavaScript technologies.
 
-Alongside development, I have a keen interest in cybersecurity — continuously exploring ethical hacking and security best practices to build safer digital environments.
+Alongside, I have interest in cybersecurity — continuously exploring ethical hacking and security best practices to build safer digital environments.
 
 ---
 
