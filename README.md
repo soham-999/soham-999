@@ -1,19 +1,19 @@
 ### Hey 👋, I'm Soham
 
 <a href="mailto:soham99y@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 <a href="https://twitter.com/soham99y" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 <a href="https://t.me/Dark0998" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
 </a>
 <a href="https://discord.com/users/soham990" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
 </a>
 <a href="https://sohamchakraborty.pages.dev" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />
+  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 </a>
 
 <br /><br />
@@ -34,7 +34,7 @@ Alongside development, I have a keen interest in cybersecurity — continuously 
 - **Cybersecurity:** Ethical hacking basics, OWASP principles, penetration testing tools  
 
 **Languages and Tools:**  
-**Languages and Tools:**  
+ <br />
 <code><img height="20" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="20" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img height="20" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
